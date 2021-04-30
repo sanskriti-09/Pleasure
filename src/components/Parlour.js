@@ -61,7 +61,7 @@ function Parlour() {
                             </div>
                             <div class="card-content">
                                 <span><a class="btn halfway-fab waves-effect waves-light pink" onClick={() => setCount3(count3 + 1)}><i class="material-icons" >add</i></a>
-                                    <a class="btn halfway-fab waves-effect waves-light deep-purple lighten-2" onClick={() => setCount3(count2 > 0 && count3 - 1)}><i class="material-icons">remove</i></a><br></br><br></br>
+                                    <a class="btn halfway-fab waves-effect waves-light deep-purple lighten-2" onClick={() => setCount3(count3 > 0 && count3 - 1)}><i class="material-icons">remove</i></a><br></br><br></br>
                                     {count3 > 0 && <p>Quantity - {count3}</p>}
                                 </span>
 
@@ -79,7 +79,7 @@ function Parlour() {
                             </div>
                             <div class="card-content">
                                 <span><a class="btn halfway-fab waves-effect waves-light pink" onClick={() => setCount4(count4 + 1)}><i class="material-icons">add</i></a>
-                                    <a class="btn halfway-fab waves-effect waves-light deep-purple lighten-2" onClick={() => setCount4(count2 > 0 && count4 - 1)}><i class="material-icons">remove</i></a><br></br><br></br>
+                                    <a class="btn halfway-fab waves-effect waves-light deep-purple lighten-2" onClick={() => setCount4(count4 > 0 && count4 - 1)}><i class="material-icons">remove</i></a><br></br><br></br>
                                     {count4 > 0 && <p>Quantity - {count4}</p>}
                                 </span>
                                 
