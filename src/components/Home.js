@@ -10,7 +10,7 @@ function Home() {
             <div className="home-page" style={{ backgroundImage: `url(${background})` }}>
 
                 <div className='row'>
-                    <div className='col s6'><br></br><br></br>
+                    <div className='col s6 hide-on-med-and-down'><br></br><br></br>
                         <h3 style={{ marginLeft: '124px', marginTop: '80px', color: '#37474f' }}><b>PLEASURE</b> is the</h3>
                         <h3 style={{ marginLeft: '120px', color: '#37474f' }}>path to ice-cream  <br></br></h3>
                     </div>
