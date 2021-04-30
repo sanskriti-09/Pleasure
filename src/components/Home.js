@@ -1,5 +1,4 @@
 import React from 'react'
-import 'materialize-css/dist/css/materialize.min.css'
 import background from 'F:/Pleasure ice cream/pleasure-ice-cream/src/bg.jpg'
 import icecream3 from 'F:/Pleasure ice cream/pleasure-ice-cream/src/ice-cream.jpg'
 
