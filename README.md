@@ -1,9 +1,10 @@
 
 
-![pleasure](https://user-images.githubusercontent.com/62478459/117192354-402eb280-adff-11eb-8c58-7a335fe57f31.gif)
+https://user-images.githubusercontent.com/62478459/117193479-89333680-ae00-11eb-96cb-8695c2a4a7a6.mp4
+
 
 
 This is a dynamic website of an ice cream parlour named "Pleasure" built using React! The CSS framework used is Materialize. 
 The user can select different ice cream flavors, add it to the cart and get the total amount. 
 
-https://user-images.githubusercontent.com/62478459/117192604-926fd380-adff-11eb-9c90-099279596971.mp4
+
